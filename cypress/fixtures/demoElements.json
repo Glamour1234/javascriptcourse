@@ -1,0 +1,12 @@
+{
+"siteImage": "#site-name > a",
+"inputFormsDropdownButton": ":nth-child(1) > :nth-child(1) > .dropdown-toggle",
+"simpleFormDemoButton": ".open > .dropdown-menu > :nth-child(1) > a",
+"messageField": ".form-group > #user-message",
+"message": "My name is Elohor",
+"showMessage": "#get-input > .btn",
+"value1": "#value1",
+"value2": "#value2",
+"getTotalButton": "#gettotal > .btn"
+
+}
